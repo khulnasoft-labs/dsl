@@ -1,13 +1,14 @@
 module github.com/khulnasoft-labs/dsl
 
 go 1.20
+toolchain go1.21.0
 
 require (
 	github.com/Knetic/govaluate v3.0.0+incompatible
 	github.com/Mzack9999/gcache v0.0.0-20230410081825-519e28eab057
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/hashicorp/go-version v1.6.0
-	github.com/kataras/jwt v0.1.8
+	github.com/kataras/jwt v0.1.9
 	github.com/khulnasoft-labs/gologger v1.1.11
 	github.com/khulnasoft-labs/gostruct v0.0.0-20230802004306-fba060715063
 	github.com/khulnasoft-labs/mapcidr v1.1.2
