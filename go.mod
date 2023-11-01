@@ -17,7 +17,7 @@ require (
 	github.com/sashabaranov/go-openai v1.14.2
 	github.com/spaolacci/murmur3 v1.1.0
 	github.com/stretchr/testify v1.8.4
-	golang.org/x/exp v0.0.0-20230905200255-921286631fa9
+	golang.org/x/exp 7918f672742d
 )
 
 require (
